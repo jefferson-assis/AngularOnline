@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 
-import {ContarModule} from './contar/contar.module';
+import {ContarModule} from './contar';
 
 @NgModule({
   declarations: [
